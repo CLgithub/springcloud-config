@@ -1,5 +1,5 @@
-server:
-  port: 1101
-spring:
-  application:
-    name: cloud-provider-eureka-payment #服务名称
+c1:
+  c2: 1101
+c3:
+  c4:
+    c5: cccc
